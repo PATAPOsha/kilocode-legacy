@@ -1,5 +1,11 @@
 # kilo-code
 
+## 5.17.0
+
+### Minor Changes
+
+- [#171](https://github.com/Kilo-Org/kilocode-legacy/pull/171) [`f8fbfbf`](https://github.com/Kilo-Org/kilocode-legacy/commit/f8fbfbf0564058c5e064db635672a1a87f9a70b4) Thanks [@PATAPOsha](https://github.com/PATAPOsha)! - Add support for GPT-5.5 when using the OpenAI API provider.
+
 ## 5.16.2
 
 ### Patch Changes
